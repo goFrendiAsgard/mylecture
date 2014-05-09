@@ -15,4 +15,4 @@ Browse file, klik kiri pada file tersebut, akan muncul tombol `raw`, silahkan kl
 Disclaimer
 ==========
 
-Materi yang ada tidak dijamin 100% benar
+Materi yang ada tidak dijamin 100% benar.
